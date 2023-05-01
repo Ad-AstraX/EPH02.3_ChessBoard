@@ -1,6 +1,6 @@
 import KAGO_framework.Config;
 import KAGO_framework.control.MainController;
-// jus shit
+
 public class MainProgram {
 
     /**
