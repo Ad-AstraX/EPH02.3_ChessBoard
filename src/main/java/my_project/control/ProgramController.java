@@ -36,9 +36,8 @@ public class ProgramController {
      */
     public void startProgram() {
         // Erstelle ein Objekt der Klasse Ball und lasse es zeichnen
-        ChessBoard ball1 = new ChessBoard();
-        viewController.draw(ball1);
-
+        ChessBoard cB = new ChessBoard();
+        viewController.draw(cB);
     }
 
     /**
